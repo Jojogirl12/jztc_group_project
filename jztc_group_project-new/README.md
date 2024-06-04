@@ -1,4 +1,4 @@
-# **Team JZTC**
+# **Team JZTC** {lightblue}
 
 ## Group members
 ~~~md
