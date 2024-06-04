@@ -1,5 +1,5 @@
 # Progress Report - Iteration 2
-### This progress report serves as a comprehensive overview of our group's activities and reflections during Iteration 2 for Team JZTC..
+### This progress report serves as a comprehensive overview of our group's activities and reflections during Iteration 2 for Team JZTC.
 
 ## Group Members
 - Joenella Hiko
@@ -30,33 +30,33 @@
 
 ## Individual Contributions
 
-### Joenella 
+### Joenella Hiko
 ~~~md
 - My role as the Scrum Master was to delegate tasks and group meetings for Iteration 2. I can support this by being present at meetings, communicating face-to-face, email and chat. 
 
 Tasks  included:
-- Creating the Progress Report so that each member can contribute towards the group reflection and their own contributions.
-- Communicating to the team in and out of class.
-- To ensure the resource needs table was accurate, completed and uploaded to GitHub.
+- Creating the Progress Report so that each member can contribute towards the group reflection and their contributions.
+- Communicating to the team daily and weekly at our group meetings.
+- To ensure the resource needs table and Gantt chart were created and met requirements. 
 
 ~~~
 
-### Zoe
+### Zoe Proudfoot
 ~~~md
-- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub, and invited the rest of the team members for collaboration.
+- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub and invited the rest of the team members to collaborate.
 ~~~
 
-### Cairo
+### Cairo Bullen
 ~~~md
 - I contributed to the resource needs table. 
 ~~~
-### Tainui
+### Tainui Weti
 ~~~md
 - I developed a comprehensive Gantt chart to outline the project's timeline and tasks, ensuring clear planning and effective management.
 ~~~
 
 [Refer to GitHub Link:](https://github.com/zoeannp/jztc_group_project) for evidence.
-In our GitHub Repository, we have provided:
-- Gantt Chart
-- Project Progress Report
-- Resource Needs Table 
+In our GitHub Repository, we have provided: <br>
+- [Gantt Chart](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/Gantt%20chart%20redo.png)
+- [Resource Needs Table](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new/Resources)
+- [Progress report](https://github.com/zoeannp/jztc_group_project/edit/main/jztc_group_project-new/Iteration%202/README.md)
